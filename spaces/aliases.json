@@ -15,6 +15,5 @@
   "tokenlon": "tokenlon.eth",
   "synthetixcouncil": "spartancouncil.eth",
   "synthetixproposal": "snxgov.eth",
-  "synthetixgrants": "snxgrants.eth",
-  "cover": "cover-protocol.eth"
+  "synthetixgrants": "snxgrants.eth"
 }
